@@ -1,0 +1,13 @@
+G:\code\vktr\qaBDD\bin\Debug\phantomjs.exe
+G:\code\vktr\qaBDD\bin\Debug\phantomjs-license.txt
+G:\code\vktr\qaBDD\bin\Debug\qaBDD.dll.config
+G:\code\vktr\qaBDD\bin\Debug\qaBDD.dll
+G:\code\vktr\qaBDD\bin\Debug\qaBDD.pdb
+G:\code\vktr\qaBDD\bin\Debug\nunit.framework.dll
+G:\code\vktr\qaBDD\bin\Debug\TechTalk.SpecFlow.dll
+G:\code\vktr\qaBDD\bin\Debug\WebDriver.dll
+G:\code\vktr\qaBDD\bin\Debug\nunit.framework.xml
+G:\code\vktr\qaBDD\bin\Debug\WebDriver.xml
+G:\code\vktr\qaBDD\obj\Debug\qaBDD.dll
+G:\code\vktr\qaBDD\obj\Debug\qaBDD.pdb
+G:\code\vktr\qaBDD\obj\Debug\qaBDD.csprojResolveAssemblyReference.cache

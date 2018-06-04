@@ -1,0 +1,8 @@
+Given I am on the home page of quiniela
+-> done: TestMyHomePageSteps.GivenIAmOnTheHomePageOfQuiniela() (12.8s)
+And page is all rederdered
+-> done: TestMyHomePageSteps.GivenPageIsAllRederdered() (5.1s)
+When Look for the registration form
+-> done: TestMyHomePageSteps.WhenLookForTheRegistrationForm() (4.0s)
+Then I should be able to enter my email
+-> done: TestMyHomePageSteps.ThenIShouldBeAbleToEnterMyEmail() (3.0s)
